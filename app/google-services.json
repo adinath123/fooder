@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "223787641717",
+    "project_id": "caloriescounter-1454d",
+    "storage_bucket": "caloriescounter-1454d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223787641717:android:c4361dcf6057c65b6c013c",
+        "android_client_info": {
+          "package_name": "app.chedo.caloriescounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223787641717-bupn4lr9krk85k6bl9qd1kfcleleb5aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.chedo.caloriescounter",
+            "certificate_hash": "5ad8b919d62b1a8eb0f535ca5b428527041ad588"
+          }
+        },
+        {
+          "client_id": "223787641717-ioe5io6hbj9up9imkusg6ef4htu8kj9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.chedo.caloriescounter",
+            "certificate_hash": "a74362341fc177d16759c12af16d23829712dc8f"
+          }
+        },
+        {
+          "client_id": "223787641717-v8ui9rnb0oktapvum42bvjpf03ltaije.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBNqI1kwrO0sw20HWQXiXM3kGzq38cRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223787641717-v8ui9rnb0oktapvum42bvjpf03ltaije.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223787641717:android:0d460ad38cc6f66c6c013c",
+        "android_client_info": {
+          "package_name": "com.example.fooder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223787641717-hdg7kn0ggjs9f71fakk9qg8h5t6oud9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fooder",
+            "certificate_hash": "5ad8b919d62b1a8eb0f535ca5b428527041ad588"
+          }
+        },
+        {
+          "client_id": "223787641717-v8ui9rnb0oktapvum42bvjpf03ltaije.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBNqI1kwrO0sw20HWQXiXM3kGzq38cRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223787641717-v8ui9rnb0oktapvum42bvjpf03ltaije.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
